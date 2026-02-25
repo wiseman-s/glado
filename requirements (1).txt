@@ -1,0 +1,9 @@
+albumentations
+einops
+grad-cam
+gradio
+scikit-image
+spaces
+timm
+torch
+transformers
